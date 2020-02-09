@@ -22,7 +22,7 @@ main_toc:
   - title: Author
     url: "author"
   - title: "Test"
-    url: "title"
+    url: "test"
 
 defaults:
   -
