@@ -21,6 +21,8 @@ main_toc:
     url: "about"
   - title: Author
     url: "author"
+  - title: "Test"
+    url: "title"
 
 defaults:
   -
