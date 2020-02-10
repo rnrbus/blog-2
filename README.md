@@ -1,4 +1,4 @@
-# Milo
+# Ecomtips
 A Bootstrap theme for jekyll.
 
 ## Install and Test
